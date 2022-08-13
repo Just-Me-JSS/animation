@@ -1,6 +1,6 @@
 let cssSelector = anime ({
     targets: '#block',
-    translateX: 250
+    translateY: 300
   });
   let elements = document.querySelectorAll('#threeAnime');
 
